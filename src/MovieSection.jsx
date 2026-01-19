@@ -96,11 +96,11 @@ function MovieSection() {
         },
         {
             id: 's9',
-            title: 'Jilla (Full Movie)',
+            title: 'Kandaangi Kandaangi - Jilla',
             movie: 'Jilla',
-            image: 'https://i.ytimg.com/vi/xhdSqHxul2g/maxresdefault.jpg',
-            description: 'Thalapathy Vijay Blockbuster.',
-            type: 'Full Movie',
+            image: 'https://i.ytimg.com/vi/JmU1aE_Rk2o/maxresdefault.jpg',
+            description: 'Melody Hit - Vijays Vocals.',
+            type: 'Video Song',
             poster: 'https://upload.wikimedia.org/wikipedia/en/2/2f/Jilla_poster.jpg'
         }
     ];
