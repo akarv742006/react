@@ -15,14 +15,14 @@ function Home() {
                         title="Premium College Laptop - Slim, Powerful, All-Day Battery"
                         price={85000}
                         rating={5}
-                        image="https://upload.wikimedia.org/wikipedia/commons/e/e9/MacBook_Pro_16-inch_2019.jpg"
+                        image="https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=600"
                     />
                     <Product
                         id="102"
                         title="Noise Cancelling Wireless Headphones for Study Focus"
                         price={12000}
                         rating={4}
-                        image="https://upload.wikimedia.org/wikipedia/commons/4/41/Sony_WH-1000XM3.jpg"
+                        image="https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=600"
                     />
                 </div>
 
@@ -32,21 +32,21 @@ function Home() {
                         title="Spicy Instant Noodles - Pack of 12 (Dorm Essential)"
                         price={450}
                         rating={5}
-                        image="https://upload.wikimedia.org/wikipedia/commons/e/ed/Maggi_Noodles.jpg"
+                        image="https://images.pexels.com/photos/2664216/pexels-photo-2664216.jpeg?auto=compress&cs=tinysrgb&w=600"
                     />
                     <Product
                         id="104"
                         title="Waterproof Anti-Theft Laptop Backpack with USB Charging Port"
                         price={2500}
                         rating={4}
-                        image="https://upload.wikimedia.org/wikipedia/commons/d/d3/Backpack_2020.jpg"
+                        image="https://images.pexels.com/photos/3731256/pexels-photo-3731256.jpeg?auto=compress&cs=tinysrgb&w=600"
                     />
                     <Product
                         id="105"
                         title="Advanced Engineering Mathematics Textbook"
                         price={850}
                         rating={3}
-                        image="https://upload.wikimedia.org/wikipedia/commons/4/4b/Data_Structures_and_Algorithms_in_Java_6th_Edition.jpg"
+                        image="https://images.pexels.com/photos/415071/pexels-photo-415071.jpeg?auto=compress&cs=tinysrgb&w=600"
                     />
                 </div>
 
@@ -66,7 +66,7 @@ function Home() {
                         title="LED Desk Lamp with Wireless Charger"
                         price={1800}
                         rating={5}
-                        image="https://upload.wikimedia.org/wikipedia/commons/1/14/Desk_lamp.jpg"
+                        image="https://images.pexels.com/photos/1112598/pexels-photo-1112598.jpeg?auto=compress&cs=tinysrgb&w=600"
                     />
                     <Product
                         id="108"
@@ -80,7 +80,7 @@ function Home() {
                         title="Classic College Hoodie - Grey"
                         price={1200}
                         rating={4}
-                        image="https://upload.wikimedia.org/wikipedia/commons/2/23/Grey_Hoodie.jpg"
+                        image="https://images.pexels.com/photos/6347888/pexels-photo-6347888.jpeg?auto=compress&cs=tinysrgb&w=600"
                     />
                     <Product
                         id="110"
