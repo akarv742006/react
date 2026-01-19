@@ -7,7 +7,7 @@ function Hero() {
             <div className="hero__container">
                 <img
                     className="hero__image"
-                    src="/banner.png"
+                    src={`${import.meta.env.BASE_URL}banner.png`}
                     alt="Student Store Banner"
                 />
             </div>

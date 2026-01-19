@@ -56,7 +56,7 @@ function Home() {
                         title="RGB Mechanical Gaming Keyboard"
                         price={3500}
                         rating={4}
-                        image="https://upload.wikimedia.org/wikipedia/commons/6/66/Mechanical_keyboard_RGB.jpg"
+                        image="https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&w=600"
                     />
                 </div>
 
@@ -73,7 +73,7 @@ function Home() {
                         title="Single Serve Smart Coffee Maker"
                         price={4500}
                         rating={4}
-                        image="https://upload.wikimedia.org/wikipedia/commons/4/45/A_small_cup_of_coffee.JPG"
+                        image="https://images.pexels.com/photos/2067628/pexels-photo-2067628.jpeg?auto=compress&cs=tinysrgb&w=600"
                     />
                     <Product
                         id="109"
@@ -87,7 +87,7 @@ function Home() {
                         title="5-Subject Notebook Set (Pack of 3)"
                         price={600}
                         rating={5}
-                        image="https://upload.wikimedia.org/wikipedia/commons/f/f6/Notebooks_and_Pens.jpg"
+                        image="https://images.pexels.com/photos/733852/pexels-photo-733852.jpeg?auto=compress&cs=tinysrgb&w=600"
                     />
                 </div>
             </div>
