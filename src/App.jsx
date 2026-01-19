@@ -16,7 +16,7 @@ import MoviePlayer from './MoviePlayer';
 function App() {
   return (
     <ErrorBoundary>
-      <Router>
+      <Router basename="/react">
         <div className="app">
           <Routes>
             <Route path="/login" element={<Login />} />
