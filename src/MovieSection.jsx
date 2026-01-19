@@ -102,15 +102,6 @@ function MovieSection() {
             description: 'D. Imman Chartbuster.',
             type: 'Video Song',
             poster: 'https://wallpapercave.com/wp/wp7761041.jpg'
-        },
-        {
-            id: 's10',
-            title: 'Munbe Vaa - Sillunu Oru Kaadhal',
-            movie: 'Sillunu Oru Kaadhal',
-            image: 'https://i.ytimg.com/vi/1F_U7K1WJvY/maxresdefault.jpg',
-            description: 'A.R. Rahman Classic Melody.',
-            type: 'Video Song',
-            poster: 'https://wallpapercave.com/wp/wp4094709.jpg'
         }
     ];
 
