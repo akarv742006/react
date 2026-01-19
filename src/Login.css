@@ -10,7 +10,8 @@
     margin-top: 20px;
     margin-bottom: 20px;
     object-fit: contain;
-    width: 100px;
+    width: auto;
+    height: 60px;
     margin-right: auto;
     margin-left: auto;
 }
