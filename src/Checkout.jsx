@@ -12,8 +12,8 @@ function Checkout() {
             <div className="checkout__left">
                 <img
                     className="checkout__ad"
-                    src="https://images-na.ssl-images-amazon.com/images/G/02/UK_CCMP/TM/OCC_Amazon1._CB423492668_.jpg"
-                    alt=""
+                    src="https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80"
+                    alt="Checkout Banner"
                 />
 
                 <div>

@@ -40,7 +40,7 @@ function Login() {
             <Link to='/'>
                 <img
                     className="login__logo"
-                    src='/logo.png'
+                    src={`${import.meta.env.BASE_URL}logo.png`}
                 />
                 {/* Note: In a real rebrand we'd use the AK logo here too, but keeping amazon style for structure */}
             </Link>
