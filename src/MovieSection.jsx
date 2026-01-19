@@ -93,6 +93,15 @@ function MovieSection() {
             description: 'Addictive melody.',
             type: 'Video Song',
             poster: ohManapennePoster
+        },
+        {
+            id: 's9',
+            title: 'Jilla (Full Movie)',
+            movie: 'Jilla',
+            image: 'https://i.ytimg.com/vi/xhdSqHxul2g/maxresdefault.jpg',
+            description: 'Thalapathy Vijay Blockbuster.',
+            type: 'Full Movie',
+            poster: 'https://upload.wikimedia.org/wikipedia/en/2/2f/Jilla_poster.jpg'
         }
     ];
 
