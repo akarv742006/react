@@ -18,7 +18,8 @@ function MoviePlayer() {
         's6': { title: 'Adiye - Bachelor', url: 'https://www.youtube.com/embed/2NrpwkyoTrI' }, // Verified
         's7': { title: 'Kadhale Kadhale - 96', url: 'https://www.youtube.com/embed/lkPI-45gxBw' }, // Verified (Think Music / Lyrics Video - often safer)
         's8': { title: 'Bodhai Kaname - Oh Manapenne', url: 'https://www.youtube.com/embed/mfw2sMi6lrw' },  // Verified
-        's9': { title: 'Dandanakka - Romeo Juliet', url: 'https://www.youtube.com/embed/_y-6V1u3mR0' }
+        's9': { title: 'Dandanakka - Romeo Juliet', url: 'https://www.youtube.com/embed/_y-6V1u3mR0' },
+        's10': { title: 'Vaathi Coming - Master', url: 'https://www.youtube.com/embed/fRd_3Mdb2tA' }
     };
 
     const song = songData[id] || { title: 'Unknown', url: '' };
