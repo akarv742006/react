@@ -46,7 +46,7 @@ function Footer() {
 
             <div className="footer__bottom">
                 <img
-                    src="/logo.png"
+                    src={`${import.meta.env.BASE_URL}logo.png`}
                     alt="AK Logo"
                 />
                 <span className="footer__copyright">

@@ -12,7 +12,7 @@ function MovieSection() {
     const maari2Poster = 'https://wallpaperaccess.com/full/1922909.jpg';
     const vadaChennaiPoster = 'https://wallpapercave.com/wp/wp7420286.jpg';
     const nrdPoster = 'https://moviegalleri.net/wp-content/gallery/naanum-rowdy-dhaan-first-look-posters/naanum_rowdy_dhaan_movie_first_look_posters_dhanush_nayanthara_102604925.jpg';
-    const paPaandiPoster = 'https://m.media-amazon.com/images/M/MV5BYTE1ZDQwOTItN2FjMi00MjdjLThjMGEtOTA2N2I1MDhlYzQ5XkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_.jpg';
+    const paPaandiPoster = 'https://upload.wikimedia.org/wikipedia/en/7/75/Pa_Paandi_poster.jpg';
 
     // Verified Posters
     const enjoyEnjaamiPoster = 'https://i.ytimg.com/vi/eYq7WapuDLU/maxresdefault.jpg';
