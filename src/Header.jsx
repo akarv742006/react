@@ -60,7 +60,7 @@ function Header() {
                 <div className="header__logoContainer">
                     <img
                         className="header__logo"
-                        src="/logo.png"
+                        src={`${import.meta.env.BASE_URL}logo.png`}
                         alt="AK Logo"
                     />
                     <span className="header__domain">.in</span>
