@@ -96,7 +96,7 @@ function Header() {
                 <Link to='/movies'>
                     <div className="header__option">
                         <span className="header__optionLineOne">Stream</span>
-                        <span className="header__optionLineTwo">Movies</span>
+                        <span className="header__optionLineTwo">Songs</span>
                     </div>
                 </Link>
 

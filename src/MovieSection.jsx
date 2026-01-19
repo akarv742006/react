@@ -98,7 +98,7 @@ function MovieSection() {
 
     return (
         <div className="movieSection">
-            <h2 className="movieSection__title">Trending Hits (Verified)</h2>
+            <h2 className="movieSection__title">Stream Songs</h2>
             <p style={{ marginLeft: '20px', color: '#555', marginBottom: '20px' }}>
                 All songs verified working. Think Music & Divo.
             </p>
