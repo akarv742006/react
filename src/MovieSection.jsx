@@ -107,8 +107,8 @@ function MovieSection() {
             id: 's10',
             title: 'Vaathi Coming - Master',
             movie: 'Master',
-            image: 'https://i.ytimg.com/vi/fRd_3Mdb2tA/maxresdefault.jpg',
-            description: 'Youtube Record Breaker.',
+            image: 'https://i.ytimg.com/vi/vxzfsBDx590/maxresdefault.jpg',
+            description: 'Youtube Record Breaker (Lyrical).',
             type: 'Video Song',
             poster: 'https://wallpapercave.com/wp/wp5776639.jpg'
         }
