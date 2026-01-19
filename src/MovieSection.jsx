@@ -96,12 +96,12 @@ function MovieSection() {
         },
         {
             id: 's9',
-            title: 'Kandaangi Kandaangi - Jilla',
-            movie: 'Jilla',
-            image: 'https://i.ytimg.com/vi/JmU1aE_Rk2o/maxresdefault.jpg',
-            description: 'Melody Hit - Vijays Vocals.',
+            title: 'Dandanakka - Romeo Juliet',
+            movie: 'Romeo Juliet',
+            image: 'https://i.ytimg.com/vi/_y-6V1u3mR0/maxresdefault.jpg',
+            description: 'D. Imman Chartbuster.',
             type: 'Video Song',
-            poster: 'https://upload.wikimedia.org/wikipedia/en/2/2f/Jilla_poster.jpg'
+            poster: 'https://wallpapercave.com/wp/wp7761041.jpg'
         }
     ];
 
