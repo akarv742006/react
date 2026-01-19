@@ -12,7 +12,7 @@ function Checkout() {
             <div className="checkout__left">
                 <img
                     className="checkout__ad"
-                    src="https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80"
+                    src="https://images.unsplash.com/photo-1523240795612-9a054b0db644?ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80"
                     alt="Checkout Banner"
                 />
 

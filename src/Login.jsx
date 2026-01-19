@@ -59,8 +59,7 @@ function Login() {
                 </form>
 
                 <p>
-                    By signing-in you agree to the AK Student Store Conditions of Use & Sale. Please
-                    see our Privacy Notice, our Cookies Notice and our Interest-Based Ads Notice.
+                    By signing-in you agree to the AK Student Store Conditions of Use & Sale.
                 </p>
 
                 <button onClick={register} className='login__registerButton'>Create your AK Account</button>
